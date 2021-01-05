@@ -1,5 +1,5 @@
 # kajpe.github.io
 
 ## Sliding-puzzle  
-Demo : https://kajpe.github.io/slidingpuzzle/  
-Code : https://github.com/KajPe/slidingpuzzle  
+Demo : <a href="https://kajpe.github.io/slidingpuzzle/">https://kajpe.github.io/slidingpuzzle/</a>  
+Code : <a href="https://github.com/KajPe/slidingpuzzle">https://github.com/KajPe/slidingpuzzle</a>  
